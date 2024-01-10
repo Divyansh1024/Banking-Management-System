@@ -1,0 +1,23 @@
+Banking Management System
+The Banking Management System is a Python-based console application that simulates essential banking operations. This project allows users to create accounts, deposit and withdraw funds, transfer money between accounts, and view transaction histories.
+
+Key Features
+Account Creation: Users can easily create new accounts by providing basic information such as name, email, phone number, and address.
+
+Deposits and Withdrawals: Account holders can deposit and withdraw funds, and the system will update their account balances accordingly.
+
+Fund Transfers: The application supports secure fund transfers between different accounts, ensuring accurate and reliable transactions.
+
+Transaction History: Users can view their transaction history, including details such as transaction ID, amount, and transaction type.
+
+Getting Started
+To get started, follow the installation instructions in the README file. Users need to have Python and MySQL installed on their systems.
+
+Usage
+Once installed, users can run the application and follow the on-screen prompts to perform various banking operations. The application provides a simple and intuitive interface for managing accounts and transactions.
+
+Contributing
+Contributions to the project are welcome! See the contributing guidelines in the README for more information.
+
+License
+This project is licensed under the MIT License.
