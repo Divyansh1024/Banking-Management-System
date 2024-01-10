@@ -24,6 +24,16 @@ run the initializing_database.py file to create database and tables
  python initializing_database.py
 ```
 
+### Installing mysql connector
+
+```
+ pip install mysql-connector-python
+```
+
+### Run Program
+```
+ python main.py
+```
 
 ## License
 
