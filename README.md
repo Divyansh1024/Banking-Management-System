@@ -35,7 +35,3 @@ run the initializing_database.py file to create database and tables
  python main.py
 ```
 
-## License
-
-This project is licensed under [MIT](https://choosealicense.com/licenses/mit/) License.
-
